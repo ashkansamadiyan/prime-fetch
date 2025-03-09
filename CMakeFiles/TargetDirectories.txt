@@ -1,0 +1,11 @@
+/home/wint/projects/bash/fastfetch/CMakeFiles/libfastfetch.dir
+/home/wint/projects/bash/fastfetch/CMakeFiles/fastfetch.dir
+/home/wint/projects/bash/fastfetch/CMakeFiles/flashfetch.dir
+/home/wint/projects/bash/fastfetch/CMakeFiles/package.dir
+/home/wint/projects/bash/fastfetch/CMakeFiles/package_source.dir
+/home/wint/projects/bash/fastfetch/CMakeFiles/edit_cache.dir
+/home/wint/projects/bash/fastfetch/CMakeFiles/rebuild_cache.dir
+/home/wint/projects/bash/fastfetch/CMakeFiles/list_install_components.dir
+/home/wint/projects/bash/fastfetch/CMakeFiles/install.dir
+/home/wint/projects/bash/fastfetch/CMakeFiles/install/local.dir
+/home/wint/projects/bash/fastfetch/CMakeFiles/install/strip.dir

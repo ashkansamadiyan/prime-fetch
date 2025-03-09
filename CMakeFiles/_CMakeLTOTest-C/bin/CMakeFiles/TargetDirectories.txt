@@ -1,0 +1,4 @@
+/home/wint/projects/bash/fastfetch/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/foo.dir
+/home/wint/projects/bash/fastfetch/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/boo.dir
+/home/wint/projects/bash/fastfetch/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/edit_cache.dir
+/home/wint/projects/bash/fastfetch/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/rebuild_cache.dir
